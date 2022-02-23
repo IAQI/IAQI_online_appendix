@@ -6,4 +6,3 @@ Test Year is the year of the hold-out testing sample. Suppose test year is t, th
 Misclassification cost ratio is the ratio between false-negative and false-positive errors. This ratio is used in the undersampling procedure performed on the non-audit-failure instances in the training set. Details are provided in Appendix D of the paper. 
 Algorithm indicates the algorithms: AB is AdaBoost, LR is logistic regression, GB is Gradient Boosting, XGB is Extreme Gradient Boosting, SVM is support vector machine,  RF is random forest. 
 Tuned Model is the hyperparameter-tuned model.
-Optimal classification threshold is the threshold that can maximize area under the curve in the hyperparameter tuning process.
