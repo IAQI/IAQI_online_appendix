@@ -1,2 +1,2 @@
-# IAQI_online_appendix
-This is an online appendix for the academic paper "Identifying Informative Audit Quality Indicators (IAQI) Using Machine Learning"
+# Online Appendix for "Predicting Audit Failure Using Machine Learning"
+This is an online appendix for the academic paper"Predicting Audit Failure Using Machine Learning"
